@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from telethon import TelegramClient
 
 from telethon import events, sync
